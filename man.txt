@@ -1,0 +1,12 @@
+Designate a student randomly.
+
+Usage
+  $ npx ironyou JSON_PATH|"JSON_URL"|-
+
+Examples
+  $ ironyou path/to/wdpt202102par.json
+  $ ironyou https://gist.githubusercontent.com/abernier/ca69129511f00e362b071ec997934862/raw/806fa45439b2e0daa26ef0524bd324e6dad95a31/wdpt202102par.json
+  $ ironyou
+  John Doe
+  Patti Smith
+  ^D

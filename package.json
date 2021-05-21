@@ -1,0 +1,26 @@
+{
+  "name": "ironyou",
+  "version": "1.0.0",
+  "description": "Designate a student randomly among a JSON array of students.",
+  "bin": {
+    "ironyou": "./bin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abernier/ironyou.git"
+  },
+  "keywords": [],
+  "author": "Antoine BERNIER <antoine.bernier@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abernier/ironyou/issues"
+  },
+  "homepage": "https://github.com/abernier/ironyou#readme",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "uuid": "^8.3.2"
+  }
+}
