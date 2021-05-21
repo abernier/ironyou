@@ -101,7 +101,7 @@ async function main() {
 
   // Outputs
   const ret = randStudent(students)
-  console.log(ret)
+  console.log(`👉 ${ret}`)
 }
 
 // Run
