@@ -1,6 +1,6 @@
 {
   "name": "ironyou",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Designate a student randomly among a JSON array of students.",
   "bin": {
     "ironyou": "./bin.js"

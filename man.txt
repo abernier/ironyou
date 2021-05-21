@@ -5,8 +5,13 @@ Usage
 
 Examples
   $ ironyou path/to/wdpt202102par.json
+  👉 John Doe
+  
   $ ironyou https://gist.githubusercontent.com/abernier/ca69129511f00e362b071ec997934862/raw/806fa45439b2e0daa26ef0524bd324e6dad95a31/wdpt202102par.json
+  👉 John Doe
+
   $ ironyou
   John Doe
   Patti Smith
   ^D
+  👉 John Doe
