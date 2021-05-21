@@ -1,7 +1,7 @@
 Designate a student randomly.
 
 Usage
-  $ npx ironyou JSON_PATH|"JSON_URL"|-
+  $ ironyou JSON_PATH|"JSON_URL"|-
 
 Examples
   $ ironyou path/to/wdpt202102par.json

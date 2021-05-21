@@ -7,7 +7,7 @@ Designate a student randomly among a JSON array of students.
 See:
 
 ```sh
-$ npx ironyou --help
+$ npx -y ironyou --help
 ```
 
 which will outputs [`man.txt`](man.txt) file.
